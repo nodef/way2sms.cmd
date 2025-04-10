@@ -137,5 +137,7 @@ Speak no evil.
 [![cmdf](https://i.imgur.com/Jku5HkQ.jpg)](https://cmdf.github.io)
 > References: [Way2SMS.com, a Way2Online venture][Way2SMS], [Kingster's Way2SMS unofficial PHP API][Way2SMS-API].
 
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/way2sms.cmd)
+
 [Way2SMS]: http://site24.way2sms.com/content/index.html
 [Way2SMS-API]: https://github.com/kingster/Way2SMS-API
